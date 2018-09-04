@@ -49,7 +49,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "alchimia"
-#define QAPP_ORG_DOMAIN "faithco.in"
+#define QAPP_ORG_DOMAIN "magnumopusnetwork.com"
 #define QAPP_APP_NAME_DEFAULT "alchimia-Qt"
 #define QAPP_APP_NAME_TESTNET "alchimia-Qt-testnet"
 

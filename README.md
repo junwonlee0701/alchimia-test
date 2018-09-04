@@ -3,7 +3,7 @@ alchimia Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/toolboc/alchimia.svg?branch=master)](https://travis-ci.org/toolboc/alchimia)
 
-http://faithco.in
+http://magnumopusnetwork.com
 
 What is alchimia?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. alchimia Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the alchimia Core software, see [http://faithco.in](http://faithco.in).
+the alchimia Core software, see [http://magnumopusnetwork.com](http://magnumopusnetwork.com).
 
 License
 -------
