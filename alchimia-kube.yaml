@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: alchimia
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: alchimia
+  template:
+    metadata:
+      labels:
+        app: alchimia
+        version: v0.15
+    spec:
+      containers:
+      - name: alchimia
+        image: toolboc/alchimia
+        ports:
+        - containerPort: 21351
+          name: alchimia
+          protocol: TCP
